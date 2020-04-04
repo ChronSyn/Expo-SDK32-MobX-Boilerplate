@@ -1,3 +1,5 @@
+# Please note that this repo is now deprecated as of SDK37 release. Though the code here should still work, it is recommended to update to more modern versions of relevant libraries.
+
 # Expo SDK33 MobX Boilerplate
 
 ## How to start
