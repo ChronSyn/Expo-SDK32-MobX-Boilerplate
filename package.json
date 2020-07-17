@@ -13,7 +13,7 @@
   "dependencies": {
     "@expo/samples": "2.1.1",
     "fuse.js": "^3.3.0",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "mobx": "^5.8.0",
     "mobx-persist": "^0.4.1",
     "mobx-react": "^5.4.3",
